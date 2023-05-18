@@ -7,5 +7,7 @@ int main()
     printf("version controller\n");
 
     printf("version controller 2\n");
+    
+    cout<<"pull check\n";
     return 0;
 }
